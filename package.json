@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-wallet-miner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "dependencies": {
+    "events": "3.3.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "querystring": "0.2.1",
+    "string_decoder": "1.3.0",
+    "url": "0.11.0",
+    "web3": "1.7.3",
+    "yargs": "17.4.1"
+  }
+}
